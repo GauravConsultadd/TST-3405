@@ -1,0 +1,44 @@
+.integrations-section {
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.integrations-title {
+  font-size: 1.8rem;
+  margin-bottom: 3rem;
+}
+
+.integrations-logos {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-bottom: 3rem;
+}
+
+.integration-logo {
+  width: 120px;
+  height: 80px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.see-more-button {
+  background-color: #000;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 50px;
+  font-size: 0.9rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.see-more-button svg {
+  width: 16px;
+  height: 16px;
+}
+
